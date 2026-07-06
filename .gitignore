@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.gemini/
+adk_output.txt
+test_ollama.py
