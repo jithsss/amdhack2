@@ -23,7 +23,7 @@ def main():
         sys.exit(1)
         
     username = "jithsss"
-    repo_name = "amdhack2"
+    repo_name = "AMDhack"
     
     # 2. Call GitHub API to create the repository
     print(f"\nCreating repository '{repo_name}' on GitHub under user '{username}'...")
